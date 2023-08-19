@@ -1,2 +1,0 @@
-import{S as e,P as i}from"./pagination.5f3b444c.js";import{N as r}from"./navigation.5a9045aa.js";import"./hoisted.18ce993d.js";new e(".swiper",{modules:[r,i],slidesPerView:3,slidesPerGroup:3,spaceBetween:32,loop:!0,navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"},pagination:{el:".swiper-pagination",type:"bullets",clickable:!0},breakpoints:{320:{slidesPerView:1,slidesPerGroup:1},800:{slidesPerView:2,slidesPerGroup:2},1216:{slidesPerView:3,slidesPerGroup:3}}});
-//# sourceMappingURL=hoisted.28aabf6f.js.map

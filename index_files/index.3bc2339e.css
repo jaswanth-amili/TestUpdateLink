@@ -1,1 +1,0 @@
-.editing.shiki code>span.line:last-child>span:last-child:after{content:"|";animation:blink 1s steps(2) infinite;position:absolute;color:#fff;font-weight:700}@keyframes blink{0%{opacity:0}to{opacity:1}}
